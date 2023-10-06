@@ -1,0 +1,3 @@
+sudo ntfsfix /dev/sda2  
+## sda2 is mount path related 
+## permissions for secondary drive in ubuntu
