@@ -1,0 +1,9 @@
+[user]
+	name = CODSensei
+	email = krishna2342005@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[credential]
+	helper = cache
