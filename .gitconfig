@@ -7,3 +7,5 @@
 	ui = auto
 [credential]
 	helper = cache
+[alias]
+	pushit = push origin main
