@@ -47,6 +47,8 @@ alias cdwork='cd /mnt/DATA/myWork/'
 # Environment variables
 export PATH="$PATH:/opt/nvim-linux64/bin"
 export JAVA_HOME="/usr/lib/jvm/java-17-openjdk-amd64"
+# export JAVA_HOME="/usr/local/android-studio/jbr"
+# export NDK_HOME="$ANDROID_HOME/ndk/$(ls -1 $ANDROID_HOME/ndk)"
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
@@ -70,4 +72,9 @@ export PYENV_ROOT="$HOME/.pyenv"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
 
-pokeget random
+# fortune | lolcat
+# pokeget random
+# cowsay hello $USER
+cowsay KaaChow
+# cat "EOF"
+                                                                                                 "
