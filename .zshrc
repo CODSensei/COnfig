@@ -76,5 +76,3 @@ eval "$(pyenv virtualenv-init -)"
 # pokeget random
 # cowsay hello $USER
 cowsay KaaChow
-# cat "EOF"
-                                                                                                 "
